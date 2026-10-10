@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">MD → Obsidian</string>
-    <string name="share_label">옵시디언으로 보내기</string>
+    <string name="app_name">겔북이공유봇</string>
+    <string name="share_label">겔북이공유봇</string>
 </resources>
